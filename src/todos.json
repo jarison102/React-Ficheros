@@ -1,0 +1,22 @@
+{
+  "todos": [
+    {
+      "Titulo": "Tarea 1",
+      "Responsable": "Jarison",
+      "Descripcion": "Hacer una lista de tareas",
+      "Prioridad": "Bajo"
+    },
+    {
+      "Titulo": "Tarea 2",
+      "Responsable": "Jarison",
+      "Descripcion": "Estudiar Javascript",
+      "Prioridad": "Medio"
+    },
+    {
+      "Titulo": "Tarea 3",
+      "Responsable": "Jarison",
+      "Descripcion": "Practicar Python",
+      "Prioridad": "Alto"
+    }
+  ]
+}
